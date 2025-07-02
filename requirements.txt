@@ -1,7 +1,10 @@
 langchain-core
-langchain-openai
 streamlit
 dotenv
 langchain-google-genai
 langchain_community
 langchain-ollama
+langserve
+uvicorn
+fastapi
+sse_starlette

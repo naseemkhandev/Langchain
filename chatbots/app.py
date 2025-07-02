@@ -23,7 +23,6 @@ prompt = ChatPromptTemplate.from_messages(
 )
 
 # Streamlit app configuration
-st.set_page_config(page_title="LangSmith Chatbot", page_icon=":robot_face:")
 st.title("LangSmith Chatbot")
 input_question = st.text_input("Ask a question:")
 
