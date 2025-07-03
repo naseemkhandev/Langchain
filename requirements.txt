@@ -8,3 +8,4 @@ langserve
 uvicorn
 fastapi
 sse_starlette
+bs4
