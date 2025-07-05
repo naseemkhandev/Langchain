@@ -13,3 +13,6 @@ pypdf
 chromadb
 faiss-cpu
 protobuf
+wikipedia
+arxiv
+langchainhub
